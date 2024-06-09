@@ -24,9 +24,8 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Book Exchange App',
       debugShowCheckedModeBanner: false,
-      home: SplashScreen()
+      home: SplashScreen(),
     );
   }
-  // Test Git Commit
 }
 
