@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2691199068",
+    "project_id": "book-exchange-debo",
+    "storage_bucket": "book-exchange-debo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2691199068:android:259b7cdb54734e39033699",
+        "android_client_info": {
+          "package_name": "com.example.book_exchage2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEckT4-fgsMO87ZkF-gQl_xiCaY7N_1m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
